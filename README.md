@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I am a second-year computer science student in a BUT program (design, development, and application validation).
+🌱 I am currently pursuing a bachelor's degree in computer science as part of a BUT program, specializing in the conception, development, and validation of applications.
 
 <h3 align="left">My stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wa-melissa&layout=compact&theme=tokyonight" alt="wa-melissa" /><br><br><br><br></p>
